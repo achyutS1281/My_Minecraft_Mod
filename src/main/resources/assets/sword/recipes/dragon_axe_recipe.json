@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " AA",
+    " BA",
+    " B "
+  ],
+  "key":
+  {
+    "A": {
+
+      "item": "minecraft:dragon_breath",
+
+
+    },
+    "B": {
+
+        "item": "minecraft:stick",
+
+      }
+
+
+  },
+  "result": {
+    "item": "sword:dragon_axe",
+    "count": 1
+  }
+}
